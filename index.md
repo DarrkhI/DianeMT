@@ -25,5 +25,10 @@ During 4 1/2 months of intership I also wrote a couple of really short surveys o
 
 ### Personal Projects
 
+I have currently 2 personal projects running.
 
+* Matheorie
+* FootEuro
+
+Matheorie was born during the first lockdown (in the spring of 2020), the aim was to offer an new perspective on Maths and its history by telling "unknown" and informative stories (e.g. the sory of the "0" until its full acceptation in Europe).
 
