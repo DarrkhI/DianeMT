@@ -18,9 +18,9 @@ I did a research intersnhip on automatic detection of Oil spills in marine areas
 
 During 4 1/2 months of intership I also wrote a couple of really short surveys on SAR images for oil spill detection and GANs for anomaly detection. Both are available below.
 
-[SAR Images and oil spills detection]()
+[SAR Images and oil spills detection](https://darrkhi.github.io/Diane-MT/SARImages.pdf)
 
-[GAN for anomaly detection]()
+[GAN for anomaly detection](https://darrkhi.github.io/Diane-MT/)
 
 
 ### Personal Projects
