@@ -1,5 +1,5 @@
 Welcome on my personal page. 
-I am Diane Maillot-Tchofo, a student at both [ENSAI](https://ensai.fr/en/) (Ecole Nationale de la Statistiaue et de l'analyse de l'information) and the [University of Rennes 1](https://international.univ-rennes1.fr/en) enrolled in the master of Statistic, Public Evaluation and Decision Making, with a major in Statistical Studies. The french version is available here (url).
+I am Diane Maillot-Tchofo, a student at both [ENSAI](https://ensai.fr/en/) (Ecole Nationale de la Statistique et de l'analyse de l'information) and the [University of Rennes 1](https://international.univ-rennes1.fr/en) enrolled in the master of Statistic, Public Evaluation and Decision Making, with a major in Statistical Studies. The french version is available here (url).
 
 Personal projects, CV, research reports and surveys are available below.
 
