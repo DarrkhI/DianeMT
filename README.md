@@ -1,2 +1,1 @@
-# Diane MT
-personal page
+# Personal Page - Diane M-T
