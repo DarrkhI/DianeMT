@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+Welcome on my personal page. 
+I am Diane Maillot-Tchofo, a student at both [ENSAI](https://ensai.fr/en/) (Ecole Nationale de la Statistiaue et de l'analyse de l'information) and the [University of Rennes 1](https://international.univ-rennes1.fr/en) enrolled in the master of Statistic, Public Evaluation and Decision Making, with a major in Statistical Studies. The french version is available here (url).
 
-You can use the [editor on GitHub](https://github.com/DarrkhI/DianeMT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Personal projects, CV, research reports and surveys are available below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CV
 
-### Markdown
+My CV (in english) can be found here. (Last updated : Sept 21)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Work/Internship Experiences
 
-# Header 1
-## Header 2
-### Header 3
+In the 2021 summer, I did a research internship at a the [ERIC](https://eric.msh-lse.fr/en/) lab located in Lyon (France), their areas of research are divided in 3 axes, namely Data Science, Business Intelligence and Digital Humanities.
 
-- Bulleted
-- List
+I did a research intersnhip on automatic detection of Oil spills in marine areas using satellite SAR images. In the end I opted for the relatively new approach, namely Anomaly detection using GANs (Generative Adversarial Networks), where an anomaly score between a generated image and the original one is computed. I discuss this method and the research process that led me to it in great length in my intership report.
 
-1. Numbered
-2. List
+[Summer 21 internship report]()
 
-**Bold** and _Italic_ and `Code` text
+During 4 1/2 months of intership I also wrote a couple of really short surveys on SAR images for oil spill detection and GANs for anomaly detection. Both are available below.
 
-[Link](url) and ![Image](src)
-```
+[SAR Images and oil spills detection]()
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GAN for anomaly detection]()
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarrkhI/DianeMT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Personal Projects
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
