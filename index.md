@@ -5,7 +5,7 @@ Personal projects, CV, research reports and surveys are available below.
 
 ### CV
 
-My CV (in english) can be found here. (Last updated : Sept 21)
+My CV (in english) can be found [here](ttps://darrkhi.github.io/Diane-MT/). (Last updated : Sept 21)
 
 
 ### Work/Internship Experiences
@@ -20,7 +20,7 @@ During 4 1/2 months of intership I also wrote a couple of really short surveys o
 
 [SAR Images and oil spills detection](https://darrkhi.github.io/Diane-MT/SARImages.pdf)
 
-[GAN for anomaly detection](https://darrkhi.github.io/Diane-MT/)
+[GAN for anomaly detection](https://darrkhi.github.io/Diane-MT/Ano_UsingGANS.pdf)
 
 
 ### Personal Projects
