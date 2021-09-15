@@ -14,7 +14,7 @@ In the 2021 summer, I did a research internship at a the [ERIC](https://eric.msh
 
 I did a research intersnhip on automatic detection of Oil spills in marine areas using satellite SAR images. In the end I opted for the relatively new approach, namely Anomaly detection using GANs (Generative Adversarial Networks), where an anomaly score between a generated image and the original one is computed. I discuss this method and the research process that led me to it in great length in my intership report.
 
-[Summer 21 internship report]()
+[Summer 21 internship report](https://darrkhi.github.io/Diane-MT/Internship_report.pdf)
 
 During 4 1/2 months of intership I also wrote a couple of really short surveys on SAR images for oil spill detection and GANs for anomaly detection. Both are available below.
 
