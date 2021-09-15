@@ -1,2 +1,2 @@
-# dianemt.github.io
+# Diane MT
 personal page
