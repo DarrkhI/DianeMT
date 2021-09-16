@@ -5,7 +5,7 @@ Personal projects, CV, research reports and surveys are available below.
 
 ### CV
 
-My CV (in english) can be found [here](ttps://darrkhi.github.io/Diane-MT/CV_MAI_21_Anglais.pdf). (Last updated : Sept 21)
+My CV (in english) can be found [here](https://darrkhi.github.io/Diane-MT/CV_MAI_21_Anglais.pdf). (Last updated : Sept 21)
 
 
 ### Work/Internship Experiences
