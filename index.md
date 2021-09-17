@@ -11,9 +11,9 @@ CV, rapports de recherche, *survey* et projets personnels, sont disponibles ci-d
 
 ### CV
 
-[English version of my CV](https://github.com/DarrkhI/DianeMT/CV_Sept_21_Eng.pdf ). (Last updated : Sept 21)
+[English version of my CV](https://darrkhi.github.io/DianeMT/CV_Sept_21_Eng.pdf ). (Last updated : Sept 21)
 
-[Version francaise de mon CV](https://github.com/DarrkhI/DianeMT/gh-pages/CV_Sept_21_Fr.pdf). (Derniere Maj : Sept 21)
+[Version francaise de mon CV](https://darrkhi.github.io/DianeMT/CV_Sept_21_Fr.pdf). (Derniere Maj : Sept 21)
 
 
 ### Work/Internship Experiences
@@ -24,11 +24,11 @@ I did a research intersnhip on automatic detection of Oil spills in marine areas
 
 During 4 1/2 months of intership I also wrote a couple of really short surveys on SAR images for oil spill detection and GANs for anomaly detection. Both are available below.
 
-[Summer 21 internship report](https://github.com/DarrkhI/DianeMT/blob/gh-pages/Internship_report.pdf)
+[Summer 21 internship report](https://darrkhi.github.io/DianeMT//Internship_report.pdf)
 
-[SAR Images and oil spills detection](https://github.com/DarrkhI/DianeMT/blob/gh-pages/SARImages.pdf)
+[SAR Images and oil spills detection](https://darrkhi.github.io/DianeMT/SARImages.pdf)
 
-[GAN for anomaly detection](https://github.com/DarrkhI/DianeMT/blob/gh-pages/Ano_UsingGANS.pdf)
+[GAN for anomaly detection](https://darrkhi.github.io/DianeMT/Ano_UsingGANS.pdf)
 
 ----------------------------------------------------------------------------
 
