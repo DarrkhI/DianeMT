@@ -11,9 +11,9 @@ CV, rapports de recherche, *survey* et projets personnels, sont disponibles ci-d
 
 ### CV
 
-[English version of my CV](https://github.com/DarrkhI/DianeMT/CV_Sept_21_Eng.pdf). (Last updated : Sept 21)
+[English version of my CV](https://github.com/DarrkhI/DianeMT/CV_Sept_21_Eng.pdf ). (Last updated : Sept 21)
 
-[Version francaise de mon CV](https://github.com/DarrkhI/DianeMT/blob/gh-pages/CV_Sept_21_Fr.pdf). (Derniere Maj : Sept 21)
+[Version francaise de mon CV](https://github.com/DarrkhI/DianeMT/gh-pages/CV_Sept_21_Fr.pdf). (Derniere Maj : Sept 21)
 
 
 ### Work/Internship Experiences
