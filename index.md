@@ -54,7 +54,7 @@ APIFoot (made with RShiny) is a statistical visualisation platform to help sport
 
 J'ai actuellement 2 projets personnels en cours.
 
-* [Matheorie](https://darrkhl.shinyapps.io/Matheorie/)
+* [Matheorie](https://darrkhl.shinyapps.io/Matheorie/) (currently migrating)
 * [APIFoot](https://darrkhl.shinyapps.io/APIfoot/)
 
 Matheorie est né pendant le premier confinement (au printemps 2020), le but était d'offrir une nouvelle perspective sur les mathématiques et leur histoire en racontant des histoires "inconnues" et informatives (par exemple, l'histoire du "0" jusqu'à sa pleine acceptation en Europe). Des lives videos participatifs ont peu etre organises a cette occasion (via la plateforme Twitch).
